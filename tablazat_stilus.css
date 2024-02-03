@@ -1,0 +1,40 @@
+Ybody{
+    background-color:#b287cf;
+}
+table{
+    margin:auto
+}
+table,td{
+    border:2px solid black;
+    border-collapse: collapse;
+}
+td{
+    width: 200px;
+    height:200px;
+    
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+h1{
+    text-align: center;
+    color: rgba(100, 99, 99, 0.473);
+}
+#egyediszin{
+    background-color: rgb(186, 119, 199);
+}
+.nagydoboz{
+   
+    display:flex;
+}
+.kisdoboz{
+    background-color: rgb(208, 183, 253);
+    border: 1px solid palevioletred;
+    border-radius:  15px;
+    margin: 0px 15px;
+    padding: 10px;
+    text-align: justify;
+}
